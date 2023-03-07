@@ -3,7 +3,7 @@ const http = require('http');
 // const app = express();
 
 // const PORT = process.env.PORT || 8082
-// app.listen(port , (req , res)=> {
+// app.listen(PORT , (req , res)=> {
 //     console.log("The server is up and runnung ar port: " , PORT)
 // })
 
